@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a62301f2-d2e0-4b40-a905-7d683c6e005a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/3rdLibrary/ToLua/ToLua/Misc/LuaResLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Const/LuaConst.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Framework/Utils/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD0EC585-63FA-4A15-87D9-ADB9058D9E90/56/8c88780b/IMGUIContainer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8FD0E395-0530-4D4A-8835-C8FF254D8FC1/73/d89e2655/CreateAssetMenuAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Framework/StartUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Framework/GameDirector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rdLibrary/ToLua/ToLua/Core/TypeTraits.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD0EC585-63FA-4A15-87D9-ADB9058D9E90/03/add975a4/VisualElement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rdLibrary/ToLua/ToLua/Injection/Editor/ToLuaInjection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptables/StartUpConfigs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rdLibrary/ToLua/ToLua/Core/ToLua.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD0EC585-63FA-4A15-87D9-ADB9058D9E90/38/6c87a0b5/VisualTreeRepaintUpdater.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Framework/Managers/LuaManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD0EC585-63FA-4A15-87D9-ADB9058D9E90/42/61560671/ImmediateStylePainter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rdLibrary/ToLua/Editor/Custom/CustomSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rdLibrary/ToLua/ToLua/Examples/03_CallLuaFunction/CallLuaFunction.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scriptables/StartUpConfigs.cs" />
+        <option value="$PROJECT_DIR$/Assets/3rdLibrary/ToLua/Editor/Custom/CustomSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Framework/StartUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Framework/GameDirector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Framework/Managers/LuaManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Const/LuaConst.cs" />
+        <option value="$PROJECT_DIR$/Assets/3rdLibrary/ToLua/ToLua/Core/ToLua.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Framework/Utils/Singleton.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eG1KPNoxfwtdn9j9BFFCe32heq" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="26828">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="26828" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a62301f2-d2e0-4b40-a905-7d683c6e005a" name="Default Changelist" comment="" />
+      <created>1593933050089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593933050089</updated>
+      <workItem from="1593933061340" duration="13480000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1397" height="943" key="GridCell.Tab.0.bottom" />
+    <state width="1397" height="943" key="GridCell.Tab.0.bottom/2160.3840/1920.1080" />
+    <state width="1397" height="943" key="GridCell.Tab.0.center" />
+    <state width="1397" height="943" key="GridCell.Tab.0.center/2160.3840/1920.1080" />
+    <state width="1397" height="943" key="GridCell.Tab.0.left" />
+    <state width="1397" height="943" key="GridCell.Tab.0.left/2160.3840/1920.1080" />
+    <state width="1397" height="943" key="GridCell.Tab.0.right" />
+    <state width="1397" height="943" key="GridCell.Tab.0.right/2160.3840/1920.1080" />
+    <state width="1397" height="943" key="GridCell.Tab.1.bottom" />
+    <state width="1397" height="943" key="GridCell.Tab.1.bottom/2160.3840/1920.1080" />
+    <state width="1397" height="943" key="GridCell.Tab.1.center" />
+    <state width="1397" height="943" key="GridCell.Tab.1.center/2160.3840/1920.1080" />
+    <state width="1397" height="943" key="GridCell.Tab.1.left" />
+    <state width="1397" height="943" key="GridCell.Tab.1.left/2160.3840/1920.1080" />
+    <state width="1397" height="943" key="GridCell.Tab.1.right" />
+    <state width="1397" height="943" key="GridCell.Tab.1.right/2160.3840/1920.1080" />
+    <state width="1397" height="943" key="GridCell.Tab.2.bottom" />
+    <state width="1397" height="943" key="GridCell.Tab.2.bottom/2160.3840/1920.1080" />
+    <state width="1397" height="943" key="GridCell.Tab.2.center" />
+    <state width="1397" height="943" key="GridCell.Tab.2.center/2160.3840/1920.1080" />
+    <state width="1397" height="943" key="GridCell.Tab.2.left" />
+    <state width="1397" height="943" key="GridCell.Tab.2.left/2160.3840/1920.1080" />
+    <state width="1397" height="943" key="GridCell.Tab.2.right" />
+    <state width="1397" height="943" key="GridCell.Tab.2.right/2160.3840/1920.1080" />
+    <state width="1397" height="943" key="GridCell.Tab.3.bottom" />
+    <state width="1397" height="943" key="GridCell.Tab.3.bottom/2160.3840/1920.1080" />
+    <state width="1397" height="943" key="GridCell.Tab.3.center" />
+    <state width="1397" height="943" key="GridCell.Tab.3.center/2160.3840/1920.1080" />
+    <state width="1397" height="943" key="GridCell.Tab.3.left" />
+    <state width="1397" height="943" key="GridCell.Tab.3.left/2160.3840/1920.1080" />
+    <state width="1397" height="943" key="GridCell.Tab.3.right" />
+    <state width="1397" height="943" key="GridCell.Tab.3.right/2160.3840/1920.1080" />
+    <state x="383" y="598" width="672" height="678" key="search.everywhere.popup" />
+    <state x="383" y="598" width="672" height="678" key="search.everywhere.popup/2160.3840/1920.1080" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/3rdLibrary/ToLua/ToLua/Core/ToLua.cs</url>
+          <line>524</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/3rdLibrary/ToLua/ToLua/Core/ToLua.cs" initialLine="524">
+            <startOffsets>
+              <option value="18653" />
+            </startOffsets>
+            <endOffsets>
+              <option value="18703" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
