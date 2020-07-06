@@ -7,7 +7,7 @@ public static class LuaConst {
     public static string luaDir {
         get {
             if (string.IsNullOrEmpty(_luaDir)) {
-                _luaDir = Application.dataPath + "/../LuaScripts/";
+                _luaDir = Application.dataPath + "/../Lua/";
             }
             return _luaDir;
         }
