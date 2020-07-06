@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a62301f2-d2e0-4b40-a905-7d683c6e005a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.unity_framework/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.unity_framework/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Const/LuaConst.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Const/LuaConst.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.unity_framework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.unity_framework/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +43,13 @@
         <option value="$PROJECT_DIR$/Assets/3rdLibrary/ToLua/ToLua/Core/ToLua.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Framework/Utils/Singleton.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Const/LuaConst.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.unity_framework/.idea/vcs.xml" />
       </list>
     </option>
   </component>
@@ -90,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593933050089</updated>
       <workItem from="1593933061340" duration="13480000" />
-      <workItem from="1594045033904" duration="16000" />
+      <workItem from="1594045033904" duration="1581000" />
     </task>
     <servers />
   </component>
